@@ -1,0 +1,40 @@
+{
+  "name": "lookafter",
+  "version": "0.0.1",
+  "description": "simple test vue.js",
+  "productName": "lookafterSite",
+  "cordovaId": "org.cordova.quasar.app",
+  "author": "wendell vieira",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jwt-simple": "^0.5.6",
+    "localforage": "^1.7.3",
+    "lodash": "^4.17.11",
+    "sha256": "^0.2.0",
+    "vue-the-mask": "^0.11.1",
+    "vuex-persist": "^2.0.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "quasar-cli": "^0.17.0",
+    "sass-loader": "^7.1.0",
+    "strip-ansi": "=3.0.1"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ],
+  "resolutions": {
+    "ajv": "6.8.1"
+  }
+}

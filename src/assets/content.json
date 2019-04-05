@@ -1,0 +1,36 @@
+{
+  "categories": [
+    { "id": "baby-series", "title": "Baby Series", "color": "#b803ff", "img": "/statics/img-140x140.png" },
+    { "id": "bummis-snoopy", "title": "Bummis Snoopy", "color": "#ffdd03", "img": "/statics/img-140x140.png" },
+    { "id": "lion-king", "title": "Lion King", "color": "#85ce29", "img": "/statics/img-140x140.png" },
+    { "id": "baby-picapau", "title": "Baby PicaPau", "color": "#0086c8", "img": "/statics/img-140x140.png" }
+  ],
+  "products": [
+    { "title": "facilisis nunc", "desc": "l accumsan lorem vehicula. Etiam tincidunt, metus ut faucibus pretium, justo quam efficitur nibh, eu lobortis felis est vel lorem. Mauris vel nunc lacus. Maecenas non mi felis. In efficitur tortor in mattis", "img": "/statics/img-453x245.png", "cat": "baby-picapau"},
+    { "title": "consectetur adipiscing", "desc": "l accumsan lorem vehicula. Etiam tincidunt, metus ut faucibus pretium, justo quam efficitur nibh, eu lobortis felis est vel lorem. Mauris vel nunc lacus. Maecenas non mi felis. In efficitur tortor in mattis", "img": "/statics/img-453x245.png", "cat": "baby-series"},
+    { "title": "Fusce eget ", "desc": "l accumsan lorem vehicula. Etiam tincidunt, metus ut faucibus pretium, justo quam efficitur nibh, eu lobortis felis est vel lorem. Mauris vel nunc lacus. Maecenas non mi felis. In efficitur tortor in mattis", "img": "/statics/img-453x245.png", "cat": "bummis-snoopy"},
+    { "title": "eget felis eu convallis", "desc": "l accumsan lorem vehicula. Etiam tincidunt, metus ut faucibus pretium, justo quam efficitur nibh, eu lobortis felis est vel lorem. Mauris vel nunc lacus. Maecenas non mi felis. In efficitur tortor in mattis", "img": "/statics/img-453x245.png", "cat": "lion-king"},
+    { "title": "dolor sit amet", "desc": "l accumsan lorem vehicula. Etiam tincidunt, metus ut faucibus pretium, justo quam efficitur nibh, eu lobortis felis est vel lorem. Mauris vel nunc lacus. Maecenas non mi felis. In efficitur tortor in mattis", "img": "/statics/img-453x245.png", "cat": "baby-series"},
+    { "title": "Lorem ipsum", "desc": "l accumsan lorem vehicula. Etiam tincidunt, metus ut faucibus pretium, justo quam efficitur nibh, eu lobortis felis est vel lorem. Mauris vel nunc lacus. Maecenas non mi felis. In efficitur tortor in mattis", "img": "/statics/img-453x245.png", "cat": "baby-series"},
+    { "title": "Aliquam semper", "desc": "l accumsan lorem vehicula. Etiam tincidunt, metus ut faucibus pretium, justo quam efficitur nibh, eu lobortis felis est vel lorem. Mauris vel nunc lacus. Maecenas non mi felis. In efficitur tortor in mattis", "img": "/statics/img-453x245.png", "cat": "bummis-snoopy"},
+    { "title": "Phasellus ", "desc": "l accumsan lorem vehicula. Etiam tincidunt, metus ut faucibus pretium, justo quam efficitur nibh, eu lobortis felis est vel lorem. Mauris vel nunc lacus. Maecenas non mi felis. In efficitur tortor in mattis", "img": "/statics/img-453x245.png", "cat": "lion-king"},
+    { "title": "semper felis", "desc": "l accumsan lorem vehicula. Etiam tincidunt, metus ut faucibus pretium, justo quam efficitur nibh, eu lobortis felis est vel lorem. Mauris vel nunc lacus. Maecenas non mi felis. In efficitur tortor in mattis", "img": "/statics/img-453x245.png", "cat": "baby-picapau"}
+  ],
+
+  "contents": {
+    "networks": [
+      { "icon": "fab fa-facebook", "url": "https://www.facebook.com" },
+      { "icon": "fab fa-instagram", "url": "https://www.instagram.com" },
+      { "icon": "fab fa-youtube", "url": "https://www.youtube.com" }
+    ],
+    "contacts": [
+      { "icon": "fas fa-phone", "title": "Call center", "text": "1-971-diaper" },
+      { "icon": "fas fa-envelope", "title": "Contact us", "text": "confort@lookafter.com" }
+    ],
+
+    "header": {
+      "text1": "Be welcome to our website, <br> here you will find the <b>best products</b> for you need! <br> We have the <b diff>best quality</b> for the <b>best price</b>.",
+      "text2" : "Quality, comfort and tranquility products for babies from all over the USA. <br> Mom, know our products. Your baby will love it!"
+    }
+  }
+}
